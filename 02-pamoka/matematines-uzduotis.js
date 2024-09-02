@@ -1,0 +1,14 @@
+let numberA = 2;
+let numberB = 10;
+let numberC = 5;
+let sumA = numberB + numberC;
+let differenceA = numberB - numberC;
+let a = 2;
+let b = 4;
+let c = 7;
+let d = 10;
+let average = (a + b + c + d) / 4;
+console.log(numberA, numberA ** 2, numberA ** 3);
+console.log(numberA + numberB + numberC, numberA * numberB * numberC);
+console.log(sumA, differenceA, sumA * differenceA, sumA / differenceA);
+console.log(average);
